@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'PipeUsage';
+  word = "Normal P tags";
+  word1 = "Hello";
+  word2 = "I am";
+  name = "Devrim Furkan Guner";
 }
