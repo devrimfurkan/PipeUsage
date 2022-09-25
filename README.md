@@ -1,3 +1,7 @@
+#Medium
+Pipes and Pipes Usage: https://medium.com/@devrimfurkan/pipes-and-custom-pipes-3bfc80e97362
+How to Create Own Custom Pipes?: https://medium.com/@devrimfurkan/how-to-create-own-custom-pipes-e7988ee34869
+all: https://medium.com/me/stories/public
 # PipeUsage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
